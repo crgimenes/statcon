@@ -3,8 +3,8 @@ package config
 import (
 	"os"
 
-	"github.com/gosidekick/goconfig"
-	_ "github.com/gosidekick/goconfig/json"
+	goconfig "crg.eti.br/go/config"
+	_ "crg.eti.br/go/config/json"
 )
 
 type Config struct {
