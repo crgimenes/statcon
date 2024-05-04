@@ -1,6 +1,6 @@
 module github.com/crgimenes/statcon
 
-go 1.21
+go 1.22
 
 require crg.eti.br/go/config v1.3.1
 
